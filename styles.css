@@ -8,3 +8,35 @@ body {
 h1 {
     color: #4a1259;
 }
+
+/* Sección de Servicios - Nexo Eventos */
+#services {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+#services h2 {
+    color: #4a1259;
+    margin-bottom: 1.5rem;
+}
+
+.services-container {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.service-card {
+    background: #ffffff;
+    border: 1px solid #e2d5f1;
+    border-radius: 8px;
+    padding: 1.5rem;
+    width: 260px;
+    box-shadow: 0 4px 6px rgba(74, 18, 89, 0.05);
+}
+
+.service-card h3 {
+    color: #6b21a8;
+    margin-bottom: 0.8rem;
+}
