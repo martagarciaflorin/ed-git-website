@@ -1,7 +1,7 @@
 # ed-git-website
 
 ## Descripción
-Repositorio de la página web corporativa para Tech Solutions, una empresa ficticia dedicada al desarrollo de software y consultoría tecnológica.
+Repositorio de la página web corporativa para Nexo Eventos, una empresa ficticia especializada en la planificación y gestión de eventos corporativos.
 
 ## Tecnologías utilizadas
 * HTML
