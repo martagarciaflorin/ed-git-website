@@ -1,11 +1,17 @@
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
+Desktop.ini
 
-# Carpetas de configuración del IDE
+# Carpetas y archivos de editores / IDEs
 .vscode/
 .idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
 
-# Archivos temporales
+# Archivos temporales y de registros (logs)
 *.log
 *.tmp
